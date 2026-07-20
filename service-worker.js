@@ -1,4 +1,4 @@
-const CACHE_NAME = 'precision-hydraulic-github-icon-v8';
+const CACHE_NAME = 'precision-hydraulic-elite-layout-v10';
 const BASE = 'https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/';
 const APP_SHELL = [
   BASE,

@@ -1,0 +1,9 @@
+Elite layout update:
+- Ticket moved to a small left column.
+- Customer is the widest column.
+- Date Sent, Initial, and Quantity use compact columns.
+- Rod, Case, and Shaft are displayed with item icons.
+- Dimensions removed from the main Elite table.
+- Tap/click an Elite row to open a dedicated dimensions window.
+- The details window includes an Open Full Job button.
+- Existing iPhone Home Screen app icon setup is preserved.
