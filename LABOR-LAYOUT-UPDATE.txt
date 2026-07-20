@@ -1,0 +1,1 @@
+Labor window updated: LABOR button moved to top and styled to match Hone/Weld controls. Order is Labor, Hone Status, Welding. Existing functionality preserved.

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'precision-hydraulic-elite-add-v14';
+const CACHE_NAME = 'precision-hydraulic-labor-layout-v15';
 const BASE = 'https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/';
 const APP_SHELL = [
   BASE,
