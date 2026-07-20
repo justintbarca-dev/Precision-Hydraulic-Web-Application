@@ -1,0 +1,9 @@
+IPHONE ICON REFRESH
+
+1. Upload ALL files and folders inside this package to the ROOT of the GitHub repository.
+2. Wait for GitHub Pages deployment to finish with a green check.
+3. On the iPhone, delete the existing Home Screen shortcut.
+4. Open the exact GitHub Pages URL in Safari (not Chrome or the GitHub app).
+5. Tap Share > Add to Home Screen.
+
+The package includes root-level apple-touch-icon.png and cache-busted Apple icon links.

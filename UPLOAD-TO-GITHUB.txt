@@ -1,0 +1,11 @@
+PRECISION HYDRAULIC PWA — CUSTOM IPHONE ICON
+
+Upload all files and folders in this package to the ROOT of your GitHub repository.
+The repository root should show index.html, manifest.webmanifest, service-worker.js, and icons/.
+
+After GitHub Pages finishes deploying:
+1. Delete the old home-screen shortcut from the iPhone.
+2. Open the GitHub Pages URL in Safari.
+3. Tap Share > Add to Home Screen.
+
+The app interface and functionality were left unchanged. Only PWA/icon metadata and icon assets were updated.

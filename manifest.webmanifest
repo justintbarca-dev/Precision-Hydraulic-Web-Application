@@ -1,0 +1,32 @@
+{
+  "name": "Precision Hydraulic Shop Tracker",
+  "short_name": "Precision Hydraulic",
+  "description": "Precision Hydraulic job tracking, office board, and invoicing test application.",
+  "id": "https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/",
+  "start_url": "https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/",
+  "scope": "https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/",
+  "display": "standalone",
+  "background_color": "#06111d",
+  "theme_color": "#06111d",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
