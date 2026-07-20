@@ -1,4 +1,4 @@
-const CACHE_NAME = 'precision-hydraulic-v-initial-circle-final';
+const CACHE_NAME = 'precision-hydraulic-v-seal-inline-final';
 const BASE = 'https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/';
 const APP_SHELL = [
   BASE,
