@@ -1,0 +1,1 @@
+Labor entries now appear directly below the Labor button in a toned-down blue panel. Seal quantity controls are forced into a horizontal minus / quantity / plus row.

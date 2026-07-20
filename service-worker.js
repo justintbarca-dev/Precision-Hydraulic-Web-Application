@@ -1,4 +1,4 @@
-const CACHE_NAME = 'precision-hydraulic-labor-layout-v15-sealqty-v2';
+const CACHE_NAME = 'precision-hydraulic-labor-panel-seal-horizontal-v16';
 const BASE = 'https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/';
 const APP_SHELL = [
   BASE,
