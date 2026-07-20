@@ -1,0 +1,1 @@
+Seal entries now default to quantity 1 and use matching minus/plus stepper buttons styled like Labor hours. Whole-number quantity behavior and all existing seal calculations are preserved.
