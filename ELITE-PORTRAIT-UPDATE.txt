@@ -1,0 +1,9 @@
+Elite portrait optimization
+
+- All six Elite columns now fit within iPhone portrait width.
+- Horizontal scrolling removed from the Elite table in portrait view.
+- Ticket, Item, Date Sent, Initial, and Qty columns compacted.
+- Customer remains the widest column and may wrap to two lines.
+- Mobile header labels abbreviated for readability.
+- Item icons compacted while retaining rod/case/shaft identification.
+- Existing row-tap dimensions window and iPhone Home Screen icon preserved.
