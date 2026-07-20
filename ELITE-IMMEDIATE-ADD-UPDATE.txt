@@ -1,0 +1,1 @@
+Elite update: Date Sent displays as MM/DD. Each Elite entry row now has an ADD button that commits immediately, turns green with ADDED confirmation, and updates saved data used by the main board, Elite board, and Office Board. Existing iPhone home-screen icon setup is preserved.
