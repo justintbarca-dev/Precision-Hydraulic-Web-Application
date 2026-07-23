@@ -1,4 +1,4 @@
-const CACHE_NAME = 'precision-hydraulic-shaft-migration-v2';
+const CACHE_NAME = 'precision-hydraulic-returned-swipe-v1';
 const BASE = 'https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/';
 const APP_SHELL = [
   BASE,
