@@ -1,4 +1,4 @@
-const CACHE_NAME = 'precision-hydraulic-details-parts-v1';
+const CACHE_NAME = 'precision-hydraulic-invoice-cleanup-v2';
 const BASE = 'https://justintbarca-dev.github.io/Precision-Hydraulic-Web-Application/';
 const APP_SHELL = [
   BASE,
